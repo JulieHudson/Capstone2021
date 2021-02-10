@@ -2,7 +2,9 @@
 
 ## Definition of your audience:
 Savvy instructors and cohorts
+
 Hiring managers 
+
 Consumers of product: People who are experiencing symptoms of COVID and other illnesses, and by extension, their medical providers.
 
 
